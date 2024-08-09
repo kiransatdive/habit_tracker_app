@@ -1,10 +1,11 @@
 # habittracker_app
 
-A new Flutter project.
-
-## Getting Started
-
+# Getting Started
+## flutter pub get
+## flutter run
 This project is a starting point for a Flutter application.
+![Screenshot (407)](https://github.com/user-attachments/assets/4d8212ee-9617-4bdb-bda8-efce48e447aa)
+![Screenshot (408)](https://github.com/user-attachments/assets/b320a5e4-da9d-4c8c-8b52-3b87e7b981f5)
 
 A few resources to get you started if this is your first Flutter project:
 
